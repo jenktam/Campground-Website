@@ -6,6 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "engines": {
+    "node": "^5.9.1"
+  },
   "author": "Jen Tam",
   "license": "ISC",
   "dependencies": {
@@ -16,5 +19,6 @@
   },
   "devDependencies": {
     "nodemon": "^1.11.0"
-  }
+  },
+  "keywords": []
 }
